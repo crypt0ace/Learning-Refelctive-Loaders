@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Loader-2\bin\Release\Loader-2.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Loader-2\bin\Release\Loader-2.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Loader-2\bin\Release\Loader-2.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Loader-2\obj\Release\Loader-2.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Loader-2\obj\Release\Loader-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Loader-2\obj\Release\Loader-2.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Loader-2\obj\Release\Loader-2.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Loader-2\obj\Release\Loader-2.pdb

@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\mscorlib\bin\Release\mscorlib.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\mscorlib\bin\Release\mscorlib.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\mscorlib\bin\Release\mscorlib.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\mscorlib\obj\Release\mscorlib.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\mscorlib\obj\Release\mscorlib.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\mscorlib\obj\Release\mscorlib.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\mscorlib\obj\Release\mscorlib.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\mscorlib\obj\Release\mscorlib.pdb

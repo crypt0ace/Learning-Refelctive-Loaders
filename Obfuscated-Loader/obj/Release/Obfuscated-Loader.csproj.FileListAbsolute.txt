@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Obfuscated-Loader\bin\Release\Obfuscated-Loader.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Obfuscated-Loader\bin\Release\Obfuscated-Loader.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Obfuscated-Loader\bin\Release\Obfuscated-Loader.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Obfuscated-Loader\obj\Release\Obfuscated-Loader.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Obfuscated-Loader\obj\Release\Obfuscated-Loader.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Obfuscated-Loader\obj\Release\Obfuscated-Loader.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Obfuscated-Loader\obj\Release\Obfuscated-Loader.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Learning-Reflective-Loaders\Obfuscated-Loader\obj\Release\Obfuscated-Loader.pdb
